@@ -1,0 +1,62 @@
+dt C <ks,pm,dl,vk >rx
+
+ks C <vr >dt
+pm C <pf >dt
+dl C <ts >dt
+vk C <xd >dt
+
+vr C <lz,gx,lt,tx,xz,sb,ng,cn >tr,vf,tx,ks,kk,jg
+pf C <zn,zr,qn,vx,hk,cb,fl,vh,lj >pp,tv,rl,pm,hk
+ts C <vn,xg,gk,jr,cd,mt,rr,pb >dl,qm,kx,lq,bf,jr
+xd C <gb,hd,mg,vl,xv,vj,qz >qz,bc,zt,vk,hq,qx,gc
+
+lz F  >kk,vr
+gx F  >vr
+lt F  >ng,vr
+tx F  >jg,vr
+xz F  >lt,vr
+sb F  >lz,vr
+ng F  >vr,gx
+cn F  >vr,tr
+zn F  >vh,pf
+zr F  >vx,pf
+qn F  >zr,pf
+vx F  >lj,pf
+hk F  >pf,tv
+cb F  >pf
+fl F  >pp,pf
+vh F  >pf,cb
+lj F  >pf,fl
+vn F  >ts,lq
+xg F  >ts,pb
+gk F  >kx,ts
+jr F  >ts,qm
+cd F  >vn,ts
+mt F  >ts
+rr F  >ts,cd
+pb F  >ts,mt
+gb F  >vj,xd
+hd F  >mg,xd
+mg F  >xd
+vl F  >xd,bc
+xv F  >hq,xd
+vj F  >xd,hd
+qz F  >xd,gc
+
+bc F  >qx
+bf F  >rr
+gc F  >xv
+hq F  >zt
+jg F  >sb
+kk F  >vf
+kx F  >xg
+lq F  >gk
+pp F  >zn
+qm F  >bf
+qx F  >gb
+rl F  >qn
+tr F  >xz
+tv F  >rl
+vf F  >cn
+zt F  >vl
+broadcaster B  >qz,tx,jr,hk
